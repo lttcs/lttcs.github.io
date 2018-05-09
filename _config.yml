@@ -5,17 +5,17 @@ header-img: img/home-bg.jpg
 email: 2975667205@qq.com
 description: "学经济的爱折腾 | Hu Song，Major at economy | 这里是 胡松 的个人博客，与你一起发现更大的世界。"
 keyword: "胡松"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://lttcs.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     lttcs
+zhihu_username:     lttcs
+github_username:    lttcs
+#twitter_username:   huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: lttcs
 
 # Netease setttings
 netease_comment: false
@@ -60,14 +60,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "就是要折腾，<br>离开世界之前，一切都是过程"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -85,7 +85,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+#friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
